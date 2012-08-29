@@ -5,8 +5,9 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-####*"Evernote做主要的知识管理，这里做轻量级的分享。"*
-	
+####*"Evernote做主要的知识管理，这里做轻量级的分享。"*	
+
+
 ####最新发布文章： 	
 
 <ul class="posts">
