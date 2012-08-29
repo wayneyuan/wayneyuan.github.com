@@ -1,13 +1,13 @@
 ---
 layout: page
-title: PKM&Share
+title: 学无止境
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-###知识管理和分享
+####*"Evernote做主要的知识管理，这里做轻量级的分享。"*
 	
-###最新发布文章： 	
+####最新发布文章： 	
 
 <ul class="posts">
 {% for post in site.posts %}
