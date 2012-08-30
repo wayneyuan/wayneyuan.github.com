@@ -9,9 +9,9 @@ tags: [jekyll, trouble, windows]
 
 因为windows环境，带来了诸多病痛，善用搜索，记录下备用：
 
-* [Windows系统配置Jekyll](http://yunfeng.sinaapp.com/?p=437)
+> [Windows系统配置Jekyll](http://yunfeng.sinaapp.com/?p=437)
 
-* [解决Jekyll编码问题](http://www.mcgtts.com/blog/2012/05/30/jekyll-encode/)
+> [解决Jekyll编码问题](http://www.mcgtts.com/blog/2012/05/30/jekyll-encode/)
 
 还有一点很重要：**清空chrome缓存试一下。**
 这点上浪费了很多时间。
