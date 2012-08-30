@@ -1,0 +1,9 @@
+---
+layout: post
+title: "jekyll troubles"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+blabla
