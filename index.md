@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wayne's Blog
+title: 学无止境
 tagline: PKM&Sharing
 ---
 {% include JB/setup %}

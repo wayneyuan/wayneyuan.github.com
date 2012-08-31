@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 学无止境
-tagline: Supporting tagline 2
+title: Wayne's Blog
+tagline: PKM&Sharing
 ---
 {% include JB/setup %}
 
