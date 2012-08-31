@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 学无止境
-tagline: Supporting tagline
+tagline: Supporting tagline 2
 ---
 {% include JB/setup %}
 
