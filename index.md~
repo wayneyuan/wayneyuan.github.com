@@ -6,7 +6,7 @@ tagline: PKM&Sharing
 {% include JB/setup %}
 
 <div class="row">
-  <div class="span12">
+  <div class="span8">
 
 ####*"Evernote做主要的知识管理，这里做轻量级的分享。"*	
 
