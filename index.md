@@ -19,6 +19,7 @@ tagline: PKM&Sharing
   </div>
 
   <div class="span4">
+<iframe width="230" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn&width=230&height=24&uid=1653411765&style=3&btn=light&dpc=1"></iframe>
   </div>
 
 </div>
