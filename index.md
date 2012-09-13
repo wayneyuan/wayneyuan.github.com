@@ -5,12 +5,11 @@ tagline: PKM&Sharing
 ---
 {% include JB/setup %}
 
-<div class="row">
-  <div class="span8">
-
 ####*"Evernote做主要的知识管理，这里做轻量级的分享。"*	
 
 ---
+<div class="row">
+  <div class="span8">
 
 ####最新发布文章： 	
 
@@ -24,15 +23,7 @@ tagline: PKM&Sharing
 
   <div class="span4">
     <h4>Published</h4>
-    <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
-
-  {% unless page.tags == empty %}
     <h4>Tags</h4>
-    <ul class="tag_box">
-    {% assign tags_list = page.tags %}
-    {% include JB/tags_list %}
-    </ul>
-  {% endunless %}  
   </div>
 
 </div>
