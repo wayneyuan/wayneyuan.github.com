@@ -16,9 +16,6 @@ tagline: PKM&Sharing
   })();
 </script>
 
-<!-- Place this tag where you want both of the search box and the search results to render -->
-<gcse:search></gcse:search>
-
 ####*"Evernote做主要的知识管理，这里做轻量级的分享。"*	
 
 ---
@@ -33,12 +30,10 @@ tagline: PKM&Sharing
   </div>
 
   <div class="span4">
-
-<form action="/search/">
-<h3>搜索</h3>
-<p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
-</form>
-
+  <form action="/search/">
+  <h4>搜索</h4>
+  <p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
+  </form>
   <h4>Follow me on <a href="https://github.com/wayneyuan">Github</a></h4>
   <h4>Follow me on <a href="http://weibo.com/wayneyuan">SinaWeibo</a></h4>
   <h4>版权申明</h4>
