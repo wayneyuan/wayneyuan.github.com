@@ -34,7 +34,7 @@ tagline: PKM&Sharing
 <!-- Place this tag where you want both of the search box and the search results to render -->
 <gcse:search></gcse:search>
 
-<form action="/search/" class="block block-search">
+<form action="/search/">
 <h3>搜索</h3>
 <p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
 </form>
