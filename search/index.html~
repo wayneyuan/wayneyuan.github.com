@@ -1,13 +1,9 @@
 ---
 layout: page
 title:  搜索
-
-pageClass: page-type-search
-
-logoType: -90x30
 ---
 
-{% include header.tpl %}
+<!-- Place this tag where you want both of the search box and the search results to render -->
+<gcse:search></gcse:search>
 
-<div id="cse">Loading</div>
 
