@@ -21,16 +21,19 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
-    <script>
-    (function() {
+    -->
+
+<!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
     var cx = '015618652791204293814:7ja7cofncjk';
     var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
     gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
         '//www.google.com/cse/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
-    })();
-    </script>
+  })();
+</script>
+  
   </head>
 
   <body>
