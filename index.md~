@@ -19,6 +19,26 @@ tagline: PKM&Sharing
   </div>
 
   <div class="span4">
+
+<!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
+    var cx = '015618652791204293814:7ja7cofncjk';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<!-- Place this tag where you want both of the search box and the search results to render -->
+<gcse:search></gcse:search>
+
+<form action="/search/" class="block block-search">
+<h3>搜索</h3>
+<p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
+</form>
+
   <h4>Follow me on <a href="https://github.com/wayneyuan">Github</a></h4>
   <h4>Follow me on <a href="http://weibo.com/wayneyuan">SinaWeibo</a></h4>
   <h4>版权申明</h4>
